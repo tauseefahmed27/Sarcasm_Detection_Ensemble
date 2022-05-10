@@ -1,0 +1,4 @@
+# Sarcasm_Detection_Ensemble
+
+The primary goal is to analyze whether a tweet is sarcastic or not. Computational detection of sarcasm has seen attention from the sentiment analysis community in the past few years. Sarcasm is an interesting problem for sentiment analysis because surface sentiment of words in a sarcastic text may be different from the implied sentiment. For example, ‘Being stranded in traffic is the best way to start a week’ is a sarcastic sentence because the surface sentiment of the word ‘best’ (positive) is different from the implied sentiment of the sentence (negative), considering remaining portions of the text.
+To solve the issue in the existing system to improve the efficiency of the results to a much greater extent. The project aims to give a refined result and conduct more precision. The project aims to apply and use the Ensemble of Random Forest model and Evolutionary algorithms.
